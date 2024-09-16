@@ -1,5 +1,6 @@
 **Aygaz Makine Öğrenmesi Bootcamp: Yeni Nesil Proje Kampı** 
 
+
 **Supervised Project:**
 
 Accuracy Score - 0.9994315758812146
