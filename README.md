@@ -3,7 +3,7 @@
 
 **Supervised Project:**
 
-Kaggle Link: https://www.kaggle.com/code/ayysenurrr/online-fraud-detection-supervised/edit
+Kaggle Link: https://www.kaggle.com/code/ayysenurrr/online-fraud-detection-supervised
 
 Accuracy Score - 0.9994315758812146
 
@@ -28,7 +28,7 @@ Yaptığım model negatif sınıflar için gayet iyi çalışıyor ama pozitif s
 
 **Unsupervised Project:**
 
-Kaggle Link:https://www.kaggle.com/code/ayysenurrr/online-fraud-detection-unsupervised/edit
+Kaggle Link: https://www.kaggle.com/code/ayysenurrr/online-fraud-detection-unsupervised
 
 Modeli değerlendirmek için "Silhoutte Skor"unu kullnadım.
 
