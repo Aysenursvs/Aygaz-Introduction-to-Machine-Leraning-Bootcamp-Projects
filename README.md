@@ -1,5 +1,24 @@
 **Aygaz Makine Öğrenmesi Bootcamp: Yeni Nesil Proje Kampı** 
 
+ Bu proje kampı makine öğrenmesine girişi konu alan bir bootcmap. Bootcamp süresince bizden iki tane proje geliştirilmemiz istendi: Supervised ve Unsupervised. Bu github reposu proje boyunca geliştirdiğim iki proje ile ilgili. Projelerde bizden EDA aşaması, algoritma seçimi ve hiperparametre optimizasyonu gibi konulara yer vermemiz istendi.
+
+ Readme dosyasında projenin son çıktıları yer alıyor.(Projeler ile ilgili teknik detaylar ve veri seti ilgili teknik, görsel detaylar repodaki notebooklarda yer alıyor)
+
+ Supervised Projesinde KNeighborsClassifier algoritmasını, Unsupervised Projesinde KMeans algoritmasını kullandım.
+
+ Projeleri kaggldan bulduğum bir veri seti üzerinde geliştirdim. İki projede de aynı veri setini kullandım.
+
+ **VERİ SETİ**
+
+ Online ödemelerdeki dolandırıcılık tespiti ile ilgili bir veri seti kullandım projelerimde. Veri setim 6362620 veri noktası içeriyor. Float, integer ve object olmak üzere üç veri tipi bulunduruyor.
+
+ Veri setimde yer alan özellikler: step,	amount,	oldbalanceOrg,	newbalanceOrig,	oldbalanceDest,	newbalanceDest,	isFraud,	isFlaggedFraud
+
+ Supervised projesinde bu veri setinde isFraud kısmını sınıflandırma ile tespit etmeye çalıştım.
+
+ Unsupervised projesinde ise bu işelemi kümeleme yaparak yaptım. Küme merkezlerini belirledim, sonra optimize ettim.
+
+**SON ÇIKTILAR**
 
 **Supervised Project:**
 
